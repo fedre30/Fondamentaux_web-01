@@ -26,15 +26,11 @@
     
         - 04.1.1 Caractéristiques 
         
-            -04.1.1.1 Support de données
-            
-            -04.1.1.2 Support de la communauté
-            
-            -04.1.1.3 Support de données
-            
+            -04.1.1.1 Support de données      
+            -04.1.1.2 Support de la communauté          
+            -04.1.1.3 Support de données   
             -04.1.1.4 Documentation
-            
-            
+              
         - 04.1.2 Pourquoi l'utiliser 
         
             -04.1.2.1 Avantages
@@ -44,8 +40,8 @@
 
         - 04.2.1 Comment choisir un Framework
         
+        
          -04.2.2 Quelques exemples 
-         
          
             -04.2.2.1 Spécialités et avantages de quelques Framework PHP
          
