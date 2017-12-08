@@ -6,10 +6,10 @@ Type de sites : création côté serveur / client. CMS / Framework / LIbrarires.
 
 Comptes GitHub des membres du groupe : 
 
-https://github.com/fedre30
+Federica Alfano : https://github.com/fedre30
 
-https://github.com/AymelineC
+Aymeline Chemin : https://github.com/AymelineC
 
-https://github.com/claralangen
+Clara de Langenhagen : https://github.com/claralangen
 
-https://github.com/Draktors
+Enzo Hespel : https://github.com/Draktors
