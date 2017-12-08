@@ -28,8 +28,7 @@
         
             - 04.1.1.1 Support de données      
             - 04.1.1.2 Support de la communauté          
-            - 04.1.1.3 Support de données   
-            - 04.1.1.4 Documentation
+            - 04.1.1.3 Documentation
               
         - 04.1.2 Pourquoi l'utiliser 
         
