@@ -12,3 +12,5 @@ https://magento.com/
 http://www.drupalfrance.com/
 
 https://hackernoon.com/67-useful-tools-libraries-and-resources-for-saving-your-time-as-a-web-developer-7d3fb8667030
+
+https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_logicielle
