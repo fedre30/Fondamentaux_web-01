@@ -8,8 +8,13 @@
         
 - **02 CMS**
     - (02.1)
-        - (#heading-111)
-        - (#heading-112--some-bold-italic)
+        - 02.1 - Qu'est-ce qu'un CMS ? (définition)
+        
+        - 02.2 - Pourquoi l'utiliser ?
+        
+        - 02.3 - Exemples de CMS, leurs avantages / Inconvénients.
+      
+        
         
       
         
@@ -28,7 +33,8 @@
         
             - 04.1.1.1 Support de données      
             - 04.1.1.2 Support de la communauté          
-            - 04.1.1.3 Documentation
+            - 04.1.1.3 Support de données   
+            - 04.1.1.4 Documentation
               
         - 04.1.2 Pourquoi l'utiliser 
         
