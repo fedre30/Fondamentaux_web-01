@@ -18,7 +18,7 @@
         
       
         
-  - **03 Libraries**
+ - **03 Libraries**
     - (03.1)
         - (#heading-111)
         - (#heading-112--some-bold-italic)
