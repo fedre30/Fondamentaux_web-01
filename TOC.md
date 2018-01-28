@@ -34,26 +34,27 @@ Les + : Les CMS sont rapides et simples à mettre en place, ils permettent de ga
  
     - 04.1 Définition d'un Framework PHP
     
-        - 04.1.1 Caractéristiques 
+        - 04.1.1 Pourquoi l'utiliser 
+
+            - 04.1.2.1 Avantages
+
+    
+        - 04.1.2 Caractéristiques 
         
             - 04.1.1.1 Support de données      
             - 04.1.1.2 Support de la communauté          
-            - 04.1.1.3 Support de données   
-            - 04.1.1.4 Documentation
+            - 04.1.1.3 Documentation
               
-        - 04.1.2 Pourquoi l'utiliser 
         
-            - 04.1.2.1 Avantages
             
-            
-     - 04.2 Exemples de Framework PHP
+     - 04.2 Exemples de Frameworks Backend
 
-         - 04.2.1 Comment choisir un Framework
+         - 04.2.1 Les Frameworks les plus utilisés
         
         
-         - 04.2.2 Quelques exemples 
+         - 04.2.2 Les modèles de template les plus utilisés 
          
-            - 04.2.2.1 Spécialités et avantages de quelques Framework PHP
+            - 04.2.2.1 Explication MVC 
          
            
     
